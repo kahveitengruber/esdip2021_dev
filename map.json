@@ -252,7 +252,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/localhost:8080\/chillout_left.json#entry_top"
+                 "value":"\/chillout_left.json#entry_top"
                 }, 
                 {
                  "name":"exitUrl.back",
