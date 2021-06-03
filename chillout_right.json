@@ -136,7 +136,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_left_bot"
+                 "value":".\/map.json#entry_right_bot"
                 }, 
                 {
                  "name":"exitUrl.back",
@@ -159,7 +159,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_left_mid"
+                 "value":".\/map.json#entry_right_mid"
                 }, 
                 {
                  "name":"exitUrl.back",
@@ -182,7 +182,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_left_top"
+                 "value":".\/map.json#entry_right_top"
                 }, 
                 {
                  "name":"exitUrl.back",
