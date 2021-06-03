@@ -96,6 +96,11 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
+                 "value":".\/map.json#entry_left_bot"
+                }, 
+                {
+                 "name":"exitUrl.back",
+                 "type":"string",
                  "value":"\/@\/esdip\/2021\/hall#entry_left_bot"
                 }],
          "type":"tilelayer",
@@ -114,6 +119,11 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
+                 "value":".\/map.json#entry_left_mid"
+                }, 
+                {
+                 "name":"exitUrl.back",
+                 "type":"string",
                  "value":"\/@\/esdip\/2021\/hall#entry_left_mid"
                 }],
          "type":"tilelayer",
@@ -131,6 +141,11 @@
          "properties":[
                 {
                  "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/map.json#entry_left_top"
+                }, 
+                {
+                 "name":"exitUrl.back",
                  "type":"string",
                  "value":"\/@\/esdip\/2021\/hall#entry_left_top"
                 }],
