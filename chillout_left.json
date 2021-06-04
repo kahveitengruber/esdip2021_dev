@@ -96,12 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_left_bot"
-                }, 
-                {
-                 "name":"exitUrl.back",
-                 "type":"string",
-                 "value":"\/@\/esdip\/2021\/hall#entry_left_bot"
+                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_left_bot"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -119,12 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_left_mid"
-                }, 
-                {
-                 "name":"exitUrl.back",
-                 "type":"string",
-                 "value":"\/@\/esdip\/2021\/hall#entry_left_mid"
+                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_left_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -142,12 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_left_top"
-                }, 
-                {
-                 "name":"exitUrl.back",
-                 "type":"string",
-                 "value":"\/@\/esdip\/2021\/hall#entry_left_top"
+                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_left_top"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -221,6 +206,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startWithAudioMuted\":true, \"startWithVideoMuted\":true}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"hackaton1"
@@ -228,7 +218,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"speaker"
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -244,6 +234,11 @@
          "opacity":0,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startWithAudioMuted\":true, \"startWithVideoMuted\":true}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room2"
@@ -251,7 +246,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"speaker"
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -267,6 +262,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startWithAudioMuted\":true, \"startWithVideoMuted\":true}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"workshop1"
@@ -274,7 +274,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"speaker"
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
