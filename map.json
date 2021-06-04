@@ -282,7 +282,7 @@
                 {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/@\/esdip\/2021\/chilloutleft#entry_mid"
+                 "value":"\/@\/esdip\/2021\/chilloutleft#entry_top"
                 }],
          "type":"tilelayer",
          "visible":true,
