@@ -202,17 +202,17 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"auditorium.png"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/kahveitengruber\/esdip2021"
+         "value":"https:\/\/github.com\/kahveitengruber\/esdip2021_dev"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Welcome"
+         "value":"Auditorium"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
