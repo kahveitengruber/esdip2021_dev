@@ -136,12 +136,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_right_bot"
-                }, 
-                {
-                 "name":"exitUrl.back",
-                 "type":"string",
-                 "value":"\/@\/esdip\/2021\/hall#entry_right_bot"
+                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_right_bot"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -159,12 +154,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#entry_right_mid"
-                }, 
-                {
-                 "name":"exitUrl.back",
-                 "type":"string",
-                 "value":"\/@\/esdip\/2021\/hall#entry_right_mid"
+                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_right_mid"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,14 +170,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":".\/map.json#entry_right_top"
-                }, 
-                {
                  "name":"exitUrl.back",
                  "type":"string",
-                 "value":"\/@\/esdip\/2021\/hall#entry_right_top"
+                 "value":"\/@\/esdip\/esdip-2021\/esdip2021#entry_right_top"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -269,6 +254,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startWithAudioMuted\":true, \"startWithVideoMuted\":true}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"hackaton2"
@@ -276,7 +266,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"speaker"
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -609,7 +599,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/kahveitengruber\/esdip2021"
+         "value":"https:\/\/github.com\/kahveitengruber\/esdip2021_dev"
         }, 
         {
          "name":"mapName",
